@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.settipalli.paper</string>
+	<key>category</key>
+	<string>Internet</string>
+	<key>connections</key>
+	<dict/>
+	<key>createdby</key>
+	<string>Santhoshkumar Settipalli</string>
+	<key>description</key>
+	<string>Lists links to recent articles published on a predefined set of newspaper websites.
+Lists links to recent articles from a predefined set of newspapers.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Paper</string>
+	<key>objects</key>
+	<array/>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict/>
+	<key>webaddress</key>
+	<string>https://github.com/settipalli/paper-alfred-workflow</string>
+</dict>
+</plist>
