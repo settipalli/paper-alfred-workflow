@@ -11,7 +11,7 @@
 	<key>createdby</key>
 	<string>Santhoshkumar Settipalli</string>
 	<key>description</key>
-	<string>Lists links to recent articles published on a predefined set of newspaper websites.
+	<string>Show links to recent articles published on a predefined set of newspaper websites.
 Lists links to recent articles from a predefined set of newspapers.</string>
 	<key>disabled</key>
 	<false/>
@@ -53,7 +53,7 @@ echo -n $query</string>
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Fetches links to articles published on a predefined set of newspapers ..</string>
+				<string>Show links to recent articles published on a predefined set of newspapers ..</string>
 				<key>title</key>
 				<string>Paper</string>
 				<key>type</key>
