@@ -36,7 +36,7 @@ newyorker:
   cachettl: 600
   icon: the-newyorker-icon.png
   desc: American newspaper, started as a weekly in 1925, is now published 47 times annually.
-  uid: hindu
+  uid: newyorker
   url: https://www.newyorker.com
 nytimes:
   parser: nytimes
