@@ -1,0 +1,48 @@
+bloomberg:
+  parser: bloomberg
+  prefix: Bloomberg
+  cachettl: 600
+  icon: bloomberg-icon.png
+  desc: A privately held financial, software, data, and media company. Founded by Michael Bloomberg in 1981.
+  uid: bloomberg
+  url: https://www.bloomberg.com
+businessline:
+  parser: businessline
+  prefix: Business Line
+  cachettl: 600
+  icon: business-line-icon.png
+  desc: Indian business newspaper published by Kasturi & Sons.
+  uid: businessline
+  url: https://www.thehindubusinessline.com
+economist:
+  parser: economist
+  prefix: Economist
+  cachettl: 600
+  icon: the-economist-icon.png
+  desc: Weekly newspaper whose publication began under its founder James Wilson in September 1843.
+  uid: economist
+  url: https://www.economist.com
+hindu:
+  parser: hindu
+  prefix: Hindu
+  cachettl: 600
+  icon: the-hindu-icon.png
+  desc: Indian daily newspaper, started as a weekly in 1878 and became a daily in 1889.
+  uid: hindu
+  url: https://www.thehindu.com
+newyorker:
+  parser: newyorker
+  prefix: New Yorker
+  cachettl: 600
+  icon: the-newyorker-icon.png
+  desc: American newspaper, started as a weekly in 1925, is now published 47 times annually.
+  uid: hindu
+  url: https://www.newyorker.com
+nytimes:
+  parser: nytimes
+  prefix: New York Times
+  cachettl: 600
+  icon: the-new-york-times-icon.png
+  desc: American newspaper, founded in 1851.
+  uid: nytimes
+  url: https://www.nytimes.com
