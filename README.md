@@ -19,6 +19,6 @@ Alfred workflow that lists links to recent articles published on a predefined se
 
 # Trademark Legal Notice
 
-All product names, trademarks and registered trademarks are property of their respective owners. All company, product
+All product names, logos, icon images, trademarks and registered trademarks are property of their respective owners. All company, product
 and service names used by this plugin are for identification purposes only. Use of these names,trademarks and brands
 does not imply endorsement.
