@@ -9,7 +9,18 @@
 	<key>connections</key>
 	<dict>
 		<key>301A62E3-B31C-455D-B7BB-81AC4C747EAC</key>
-		<array/>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9ED1082B-92A3-4A75-BC9B-A26BAFB9F01F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 	</dict>
 	<key>createdby</key>
 	<string>Santhoshkumar Settipalli</string>
@@ -69,6 +80,29 @@ Lists links to recent articles from a predefined set of newspapers.</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>open -na "Google Chrome" --args --incognito "{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9ED1082B-92A3-4A75-BC9B-A26BAFB9F01F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -78,6 +112,13 @@ Lists links to recent articles from a predefined set of newspapers.</string>
 		<dict>
 			<key>xpos</key>
 			<integer>70</integer>
+			<key>ypos</key>
+			<integer>200</integer>
+		</dict>
+		<key>9ED1082B-92A3-4A75-BC9B-A26BAFB9F01F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>250</integer>
 			<key>ypos</key>
 			<integer>200</integer>
 		</dict>
