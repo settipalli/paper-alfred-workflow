@@ -20,7 +20,7 @@ economist:
   cachettl: 600
   icon: the-economist-icon.png
   desc: Weekly newspaper whose publication began under its founder James Wilson in September 1843.
-  uid: economist
+  uid: Economist
   url: https://www.economist.com
 hindu:
   parser: hindu
@@ -28,7 +28,7 @@ hindu:
   cachettl: 600
   icon: the-hindu-icon.png
   desc: Indian daily newspaper, started as a weekly in 1878 and became a daily in 1889.
-  uid: hindu
+  uid: Hindu
   url: https://www.thehindu.com
 newyorker:
   parser: newyorker
@@ -36,7 +36,7 @@ newyorker:
   cachettl: 600
   icon: the-newyorker-icon.png
   desc: American newspaper, started as a weekly in 1925, is now published 47 times annually.
-  uid: newyorker
+  uid: NewYorker
   url: https://www.newyorker.com
 nytimes:
   parser: nytimes
@@ -44,5 +44,5 @@ nytimes:
   cachettl: 600
   icon: the-new-york-times-icon.png
   desc: American newspaper, founded in 1851.
-  uid: nytimes
+  uid: NewYorkTimes
   url: https://www.nytimes.com
